@@ -15,13 +15,13 @@ RUN python -m pip install -r requirements.txt
 RUN apt-get update
 
 # telegram bot @HomeCam001_bot
-ENV BOT_TOKEN='1786311895:AAFZtgMqbeP9Aysy_gD-LD0nCwrHk7qKbvc' 
+ENV BOT_TOKEN='' 
 
 # chat id of group telegram MyHomeMonitor
-ENV CHAT_ID='-590868765' 
+ENV CHAT_ID='' 
 
 # MJPEG Stream URL
-ENV MJPEG_URL="https://192.168.0.103:8081/index.jpg"
+ENV MJPEG_URL=""
 
 WORKDIR /app
 ADD . /app
