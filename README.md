@@ -1,10 +1,13 @@
 # CCTV Facedetection - Telegram Bot
 
+## Create MJPEG Stream Camera
+- follow this tutorial, 
+
 ## Create Bot 
 1. Create a new bot using 'BotFather' on Telegram. Reference https://core.telegram.org/bots. BotFather supplies a TOKEN for your new bot. 
 2. Go to https://web.telegram.org,
 3. Create New Group and add your Bot to that group,
-4. Find your link (URL) of Group like (https://web.telegram.org/#/im?p=g123456789 211)
+4. Find your link (URL) of Group like (https://web.telegram.org/#/im?p=g123456789)
 5. Copy that number after `g` and put a (`-`) before that `-123456789`
 6. `-123456789` is your CHAT ID
 
