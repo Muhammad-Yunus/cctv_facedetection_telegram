@@ -13,7 +13,7 @@
 ```
 mkdir Github
 cd Github
-git clone 
+git clone https://github.com/Muhammad-Yunus/cctv_facedetection_telegram.git
 
 ```
 2. Docker build,
