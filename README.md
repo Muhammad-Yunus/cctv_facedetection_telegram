@@ -1,7 +1,7 @@
 # CCTV Facedetection - Telegram Bot
 
 ## Create MJPEG Stream Camera
-- follow this tutorial, 
+- follow this tutorial (https://yunusmuhammad007.medium.com/membuat-mjpeg-stream-camera-menggunakan-esp32-cam-part-1-e18fd0f37080)
 
 ## Create Bot 
 1. Create a new bot using 'BotFather' on Telegram. Reference https://core.telegram.org/bots. BotFather supplies a TOKEN for your new bot. 
